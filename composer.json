@@ -1,0 +1,19 @@
+{
+    "name": "a.khairetdinova/generation-site-map",
+    "description": "Site map generation library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "GenerationSiteMap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "a.khairetdinova",
+            "email": "AnnKhairetdinova@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=8.4"
+    }
+}
